@@ -1,8 +1,12 @@
 from flask import Flask, request, render_template
 import joblib
 import re
+import nltk
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
+
+# Download stopwords for Render server
+nltk.download('stopwords')
 
 app = Flask(__name__)
 
@@ -44,4 +48,4 @@ def predict():
     return render_template("index.html")
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=10000)
