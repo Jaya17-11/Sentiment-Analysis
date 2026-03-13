@@ -61,6 +61,14 @@ Dataset collected from the IMDB movie review dataset.
 * Confusion Matrix
 * ROC-AUC Score
 
+  **Selected Model**
+    Naive Bayes:	0.8575
+    Logistic Regression:	0.8892
+    SVM:	0.8853
+    Random Forest:	0.8522
+  
+    Selected : Logistic Regression
+
 6️⃣ **Deployment**
 
 * Web interface created using Flask
