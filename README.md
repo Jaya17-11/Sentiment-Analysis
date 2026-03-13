@@ -1,4 +1,4 @@
-# 🎬 Movie Review Sentiment Analysis (ML Project)
+# Real Time Sentiment Analysis using movie reviews (ML Project)
 
   A Machine Learning web application that predicts whether a movie review is **Positive 😊 or Negative 😞**.
   
@@ -18,6 +18,9 @@
 * HTML / CSS
 
 ---
+
+## Dataset used
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ## 🧠 Machine Learning Models Used
 
