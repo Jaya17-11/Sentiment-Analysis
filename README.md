@@ -121,7 +121,9 @@ http://127.0.0.1:5000
 
 
 ## Deployment link - Feel free to use
+It may take sometime to load the application mostly 30-60 seconds sometimes 1-2 minutes to save server resources when not in use
 https://sentiment-analysis-j91x.onrender.com
+
 
 ## 👩‍💻 Author
 
