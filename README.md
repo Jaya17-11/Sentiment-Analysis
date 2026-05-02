@@ -136,9 +136,5 @@ It may take sometime to load the application mostly 30-60 seconds sometimes 1-2 
 https://sentiment-analysis-j91x.onrender.com
 
 
-## 👩‍💻 Author
 
-**Jaya Lakshmi**
-
----
 
